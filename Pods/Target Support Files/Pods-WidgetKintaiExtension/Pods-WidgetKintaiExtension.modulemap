@@ -1,0 +1,6 @@
+framework module Pods_WidgetKintaiExtension {
+  umbrella header "Pods-WidgetKintaiExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
